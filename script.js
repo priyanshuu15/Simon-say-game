@@ -99,3 +99,4 @@ function calculateHighestScore() {
     let highestScore = Math.max(...matchScores);
     return highestScore;
 }
+//add new feature
